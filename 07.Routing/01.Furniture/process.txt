@@ -1,0 +1,16 @@
+1. Extract project skeleton and examine files
+2. Setup NPM Project
+3. Analyze the html and determine templates
+4. Configure routing with placeholder modules ->creating new files and configuring routing table
+5. Implement requests (api.js and data.js)
+6. Implement each view
+
+
+module == -> View Controller
+    -fetch data
+    -interpolate template
+    -handle user input
+    -return content /and create universal function for rendering content/
+    -
+
+00:57:47
